@@ -1,0 +1,46 @@
+{
+  "slug": "/game/flower-sort",
+  "title": "Play Flower Sort Online Free — No Download Browser Game",
+  "h1": "Flower Sort — Play Online Free",
+  "metaDescription": "Play Flower Sort now, a free browser merge puzzle that loads in seconds. No download needed — drop tiles, chain merges, and chase the next milestone.",
+  "content": {
+    "introText": "Flower Sort is an HTML5 browser game focused on flower sorting, matching, and clean board management. You can play instantly with no download, then start arranging blossoms by color, type, or tier depending on the embedded version. The core challenge is simple to understand but easy to misplay: every flower you place should prepare the next match. Strong runs keep similar blooms close, leave breathing room, and turn small matches into a tidy garden of higher-value pieces.",
+    "howToPlay": [
+      "Place or select matching flowers so same-color blooms can combine or clear.",
+      "Build tidy groups instead of spreading flower types across the board.",
+      "Create space before chasing larger blooms; crowded gardens stop chains."
+    ],
+    "tips": [
+      "Sort by color first, then think about higher-tier flower upgrades.",
+      "Leave a buffer row or column for awkward incoming pieces.",
+      "Avoid one-off moves that separate a flower from its closest match."
+    ],
+    "faq": [
+      {
+        "question": "Do I need to install anything to play Flower Sort?",
+        "answer": "No, the game is a browser-based HTML5 build — just open the page and start playing."
+      },
+      {
+        "question": "Does Flower Sort run on mobile browsers?",
+        "answer": "Yes, it runs smoothly on desktop and most modern phones without any plugin."
+      }
+    ]
+  },
+  "keywordStrategy": {
+    "variations": [
+      "Play Flower Sort online game free",
+      "Flower Sort unblocked online game",
+      "Flower Sort free game no download"
+    ],
+    "internalLinks": [
+      "puzzle-games",
+      "relaxing-games"
+    ],
+    "category": "puzzle",
+    "mechanic": "merge"
+  },
+  "schemaData": {
+    "applicationCategory": "Game",
+    "operatingSystem": "Any (HTML5)"
+  }
+}
